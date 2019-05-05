@@ -1,0 +1,11 @@
+{
+  "name": "data-source-dogs-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxcabrera/data-source-dogs-v2.git",
+  "author": "Max Cabrera <cabrera.max@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.4.8"
+  }
+}
